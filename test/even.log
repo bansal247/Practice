@@ -1,0 +1,4 @@
+ERROR:root:a>b
+ERROR:root:'>' not supported between instances of 'int' and 'str'
+ERROR:root:a>b
+ERROR:root:a>b

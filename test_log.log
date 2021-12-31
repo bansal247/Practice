@@ -1,0 +1,37 @@
+2021-12-27 23:23:51,281 new_file_1 ERROR [Errno 2] No such file or directory: 'new_file_1.txt'
+2021-12-27 23:25:13,987 new_file_1 ERROR [Errno 2] No such file or directory: 'new_file_1.txt'
+2021-12-27 23:26:09,774 new_file_2 ERROR [Errno 2] No such file or directory: 'new_file_2.txt'
+2021-12-27 23:26:29,601 new_file_2 ERROR [Errno 2] No such file or directory: 'new_file_2.txt'
+2021-12-27 23:27:37,002 new_file_2 ERROR [Errno 2] No such file or directory: 'new_file_2.txt'
+2021-12-27 23:28:27,526 new_file_2 ERROR [Errno 2] No such file or directory: 'new_file_2.txt'
+2021-12-27 23:29:02,437 new_file_2 ERROR [Errno 2] No such file or directory: 'new_file_2.txt'
+2021-12-28 00:16:31,163 parso.cache DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2021-12-28 00:16:31,239 parso.cache DEBUG pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2021-12-28 00:18:09,470 parso.python.diff DEBUG diff parser start
+2021-12-28 00:18:09,471 parso.python.diff DEBUG line_lengths old: 6; new: 1
+2021-12-28 00:18:09,472 parso.python.diff DEBUG -> code[replace] old[1:6] new[1:1]
+2021-12-28 00:18:09,473 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-28 00:18:09,473 parso.python.diff DEBUG diff parser end
+2021-12-28 00:32:29,364 parso.python.diff DEBUG diff parser start
+2021-12-28 00:32:29,364 parso.python.diff DEBUG line_lengths old: 1; new: 1
+2021-12-28 00:32:29,365 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:1]
+2021-12-28 00:32:29,366 parso.python.diff DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2021-12-28 00:32:29,367 parso.python.diff DEBUG diff parser end
+2021-12-28 00:36:38,862 parso.python.diff DEBUG diff parser start
+2021-12-28 00:36:38,862 parso.python.diff DEBUG line_lengths old: 1; new: 8
+2021-12-28 00:36:38,862 parso.python.diff DEBUG -> code[replace] old[1:1] new[1:8]
+2021-12-28 00:36:38,865 parso.python.diff DEBUG parse_part from 1 to 8 (to 7 in part parser)
+2021-12-28 00:36:38,866 parso.python.diff DEBUG diff parser end
+2021-12-28 14:58:51,718 parso.python.diff DEBUG diff parser start
+2021-12-28 14:58:51,722 parso.python.diff DEBUG line_lengths old: 8; new: 7
+2021-12-28 14:58:51,722 parso.python.diff DEBUG -> code[replace] old[1:8] new[1:7]
+2021-12-28 14:58:51,729 parso.python.diff DEBUG parse_part from 1 to 7 (to 6 in part parser)
+2021-12-28 14:58:51,730 parso.python.diff DEBUG diff parser end
+2021-12-28 14:58:56,401 parso.python.diff DEBUG diff parser start
+2021-12-28 14:58:56,402 parso.python.diff DEBUG line_lengths old: 7; new: 8
+2021-12-28 14:58:56,402 parso.python.diff DEBUG -> code[equal] old[1:6] new[1:6]
+2021-12-28 14:58:56,403 parso.python.diff DEBUG copy old[1:6] new[1:5]
+2021-12-28 14:58:56,419 parso.python.diff DEBUG parse_part from 6 to 6 (to 6 in part parser)
+2021-12-28 14:58:56,420 parso.python.diff DEBUG -> code[replace] old[7:7] new[7:8]
+2021-12-28 14:58:56,421 parso.python.diff DEBUG parse_part from 7 to 8 (to 7 in part parser)
+2021-12-28 14:58:56,421 parso.python.diff DEBUG diff parser end
